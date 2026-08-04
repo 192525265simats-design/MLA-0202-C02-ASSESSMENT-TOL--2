@@ -16,8 +16,6 @@ y = df['Rent']
 
 model = LinearRegression()
 model.fit(X, y)
-
-# Test Data
 area = 1400
 rooms = 4
 location = 3
