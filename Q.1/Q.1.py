@@ -1,7 +1,5 @@
 import pandas as pd
 from sklearn.linear_model import LinearRegression
-
-# Sample Dataset
 data = {
     'FloorArea': [800, 1000, 1200, 1500, 1800],
     'Rooms': [2, 3, 3, 4, 5],
